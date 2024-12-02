@@ -14,7 +14,7 @@
 
 ## Techinal Language
 - HTML
-- TAilwind css
+- Tailwind css
 - javascript
 - React
 ## Screenshots
