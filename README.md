@@ -25,6 +25,8 @@
 
 ![App Screenshot](https://github.com/sarakhi20/Real-Estate/blob/main/Images/Screenshot%202024-12-02%20081051.png)
 
+![App Screenshot]()
+
 
 ## Usage
 
