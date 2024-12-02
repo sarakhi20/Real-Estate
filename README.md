@@ -33,3 +33,9 @@
       npm i react-toastify
 
 
+## 🔗 Clone the repository
+
+Github---[https://github.com/sarakhi20/React-task7.git]
+      
+
+
