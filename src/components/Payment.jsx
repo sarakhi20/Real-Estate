@@ -6,7 +6,7 @@ const Payment = () => {
   const [amount, setamount] = useState('')
   const handleSubmit = (e)=>{
     e.preventDefault();
-    if(amount === ""){
+    if(amount === " "){
       alert("please enter amount")
     }
     else{
