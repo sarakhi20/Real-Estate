@@ -29,31 +29,32 @@ const Signup = () => {
     }
   };
   return (
-    <motion.div initial={{opacity:0, x:-200}} transition={{duration:1}} whileInView={{opacity:1, x:0}} viewport={{once:true}} className='text-center p-6 py-20 lg:px-32 w-full overflow-hidden' id='Signup'>
-        <h1 className='text-2xl sm:text-4xl font-bold mb-2 text-center'>Signup</h1>
-        <form>
-        <div  className='flex flex-wrap'>
-            <div className='w-full md:w-1/2 text-left'>
-                Your Name
-                <input className='w-full border border-gray-300 rounded py-3 px-4 mt-2' type="text" name='Name' placeholder='Your Name' required />
-            </div>
-            <div className='w-full md:w-1/2 text-left md:pl-4'>
-                Your Email
-                <input className='w-full border border-gray-300 rounded py-3 px-4 mt-2' type="email" name='Email' placeholder='Your Email' required />
+    <motion.div initial={{opacity:0, x:-200}} transition={{duration:1}} whileInView={{opacity:1, x:0}} viewport={{once:true}} className='text-center p-6 py-20 lg:px-32 w-full overflow-hidden flex justify-center items-center' id='Signup'>
+        <div className='shadow-lg px-8 py-5 border w-72'>
+            <h2 className='text-lg font-bold mb-4'>Register</h2>
+            <form>
+                <div className="mb-4">
+                    <label htmlFor="username" className='block text-gray-700'>Username</label>
+                    <input type="text" placeholder='Enter Username' className='w-full px-3 py-2 border'
+                    name="username"   />
+                </div>
+                <div className="mb-4">
+                    <label htmlFor="email" className='block text-gray-700'>Email</label>
+                    <input type="email" placeholder='Enter Email' className='w-full px-3 py-2 border'
+                    />
+                </div>
+                <div className="mb-4">
+                    <label htmlFor="password" className='block text-gray-700'>Password</label>
+                    <input type="password" placeholder='Enter Password' className='w-full px-3 py-2 border'
+                    name="password"  />
+                </div>
+                <button className="w-full bg-green-600 text-white py-2 ">Submit</button>
+            </form>
+            <div className="text-center">
+                <span>Already have account?</span>
+                <a href='#Login' className='text-blue-500'>Login</a>
             </div>
         </div>
-        <div  className='flex flex-wrap'>
-            <div className='w-full md:w-1/2 text-left'>
-                Password
-                <input className='w-full border border-gray-300 rounded py-3 px-4 mt-2' type="Password" name='Password' placeholder='Password' required />
-            </div>
-            <div className='w-full md:w-1/2 text-left md:pl-4'>
-                Mobile-number
-                <input className='w-full border border-gray-300 rounded py-3 px-4 mt-2' type="number" name='Mobile' placeholder='Mobile-number' required />
-            </div>
-        </div>
-        <button className='bg-blue-600 text-white py-2 px-12 mt-2 mb-10 rounded'>Signup</button>
-        </form>
     </motion.div>
   )
 }
