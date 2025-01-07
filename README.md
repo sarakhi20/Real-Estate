@@ -15,6 +15,7 @@
 ## Techinal Language
 - HTML
 - Tailwind css
+- bootstrap
 - javascript
 - React
 ## Screenshots
