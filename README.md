@@ -20,7 +20,7 @@
 - React
 ## Screenshots
 
-![App Screenshot](https://github.com/sarakhi20/Real-Estate/blob/main/Images/Screenshot%202024-12-02%20080939.png)
+![App Screenshot](https://github.com/sarakhi20/Real-Estate/blob/main/Images/Screenshot%202025-01-07%20171443.png)
 
 ### mobileview
 ![App Screenshot](https://github.com/sarakhi20/Real-Estate/blob/main/Images/Screenshot%202024-12-02%20081006.png)
