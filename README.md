@@ -25,7 +25,7 @@
 ### mobileview
 ![App Screenshot](https://github.com/sarakhi20/Real-Estate/blob/main/Images/Screenshot%202024-12-02%20081006.png)
 
-![App Screenshot](https://github.com/sarakhi20/Real-Estate/blob/main/Images/Screenshot%202024-12-02%20081051.png)
+![App Screenshot](https://github.com/sarakhi20/Real-Estate/blob/main/Images/Screenshot%202025-01-07%20171503.png)
 
 ### Message Sending
 ![App Screenshot](https://github.com/sarakhi20/Real-Estate/blob/main/Images/Screenshot%202024-12-02%20115741.png)
