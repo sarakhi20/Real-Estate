@@ -10,6 +10,9 @@
 - payment
 - Signup
 - Login
+- Node js
+- Mongodb
+- Express js
 
 
 ## Techinal Language
