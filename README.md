@@ -10,9 +10,7 @@
 - payment
 - Signup
 - Login
-- Node js
-- Mongodb
-- Express js
+
 
 
 ## Techinal Language
@@ -21,6 +19,9 @@
 - bootstrap
 - javascript
 - React
+-  Node js
+- Mongodb
+- Express js
 ## Screenshots
 
 ![App Screenshot](https://github.com/sarakhi20/Real-Estate/blob/main/Images/Screenshot%202025-01-07%20171443.png)
