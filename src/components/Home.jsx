@@ -9,7 +9,6 @@ import Contact from './Contact'
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
-import Payment from './Payment'
 import Footer from './Footer'
 
 
